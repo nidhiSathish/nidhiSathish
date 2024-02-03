@@ -4,14 +4,14 @@ I'm Nidhi, a passionate tech enthusiast and software developer with a strong foc
 
 🔧 Tech Stack 🔧
 
-📱 Mobile App Development: Java, Kotlin, Swift, React Native
-🌐 Web Development: HTML, CSS, JavaScript, React, Angular
-📊 Data Analysis: Python (Pandas, NumPy, Matplotlib), R, Tableau
+📱 Mobile App Development: Java, Kotlin
+🌐 Web Development: HTML, CSS, JavaScript
+📊 Data Analysis: Python (Pandas, NumPy, Matplotlib)
 💾 Database: SQL, DBMS
 
 🔍 What You'll Find Here 🔍
 
-🚀 Projects: Check out my repositories to explore exciting projects showcasing my app development skills, web development expertise, and data analysis insights.
+🚀 Projects: Check out my repositories to explore exciting projects showcasing my app development skills and web development expertise.
 
 📚 Contributions: I actively contribute to open-source projects and believe in the power of collaboration to drive innovation.
 
